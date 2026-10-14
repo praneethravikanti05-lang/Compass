@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Precision Compass & Offline Coordinate Tracker",
+  "description": "Minimalist digital compass instrument with true and magnetic heading, tilt-compensated artificial horizon, and offline GPS coordinate breadcrumb tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
